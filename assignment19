@@ -1,0 +1,4 @@
+import {allGuest, guestNames } from "./assignment17.js";
+console.log(`\n\n`)
+console.log(`Assignment 19 : Start Here \n`);
+allGuest.forEach(value => (console.log(`Mr. ${value} , Invitation for Party, make dinner with 8,November, at 10:00pm `)))
